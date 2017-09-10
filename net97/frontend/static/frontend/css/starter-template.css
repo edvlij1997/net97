@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 body {
@@ -16,10 +15,6 @@ body {
 .form-inline > a > img {
   padding-left: 10px;
   max-height: 40px;
-}
-
-.navbar-brand {
-  font-family: 'Quicksand', sans-serif;
 }
 
 /* ALBUM CSS */
